@@ -5,7 +5,7 @@
 <br/>
 - 🔭 I’m a fresh graduate from HK PolyU  
     - BSc (Hons) in Enterprise Information Systems (2015-2020)
-    - HSBC HK Student Industrial Placement in Cybersecurity (2018-2019)
+    - HSBC HK Student Industrial Placement in Cybersecurity Team (2018-2019)
 - 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning<br/><br/>
 
   
