@@ -5,7 +5,7 @@
 <br/>
 - 🔭 I’m a fresh graduate from HK PolyU  
     -  BSc (Hons) in Enterprise Information Systems (2015-2020)
-- 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning
+- 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning<br/>
 
   
 
