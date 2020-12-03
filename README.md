@@ -4,7 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:ym4766@gmail.com)](mailto:ym4766@gmail.com)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yeo-myung-shin-lynn)](https://www.linkedin.com/in/yeo-myung-shin-lynn)  [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&link=https://www.kaggle.com/lynnshin)](https://www.kaggle.com/lynnshin) [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?logo=Blogger&logoColor=white&link=https://lynnshin.tistory.com)](https://lynnshin.tistory.com)
 <br/>
 - 🔭 I’m a fresh graduate from HK PolyU  
-    -  BSc (Hons) in Enterprise Information Systems (2015-2020)
+    - BSc (Hons) in Enterprise Information Systems (2015-2020)
+    - HSBC HK Student Industrial Placement in Cybersecurity (2018-2019)
 - 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning<br/><br/>
 
   
