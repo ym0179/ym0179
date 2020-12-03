@@ -6,8 +6,8 @@
 - 🔭 I’m a fresh graduate from HK PolyU  
     -  BSc (Hons) in Enterprise Information Systems (2015-2020)
 - 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning
-<br/>
-<br/>
+\
+
 ##### ⚡ Languages
 Mainly use<br/>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]() [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()
