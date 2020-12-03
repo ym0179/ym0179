@@ -7,8 +7,8 @@
     -  BSc (Hons) in Enterprise Information Systems (2015-2020)
 - 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning
 
-
-### ⚡ Languages
+<br/>
+#### ⚡ Languages
 Mainly use<br/>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]() [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]()\
 From School<br/>
@@ -16,7 +16,8 @@ From School<br/>
 
 [![Lynn's github stats](https://github-readme-stats.vercel.app/api?username=ym0179&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)\
 
-### ⚡ Repositories
+<br/>
+#### ⚡ Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=bit_seoul&show_owner=True&theme=dark)](https://github.com/ym0179/bit_seoul)<br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=transaction_fraud_detection&show_owner=True&theme=dark)](https://github.com/ym0179/transaction_fraud_detection) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=samsung_stock_project&show_owner=True&theme=dark)](https://github.com/ym0179/samsung_stock_project)
