@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning<br/><br/>
 
 
-
+<br/>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ym0179" alt="ym0179" /> </p>
 -->
@@ -23,7 +23,7 @@
 </p>
 
 
-
+<br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ym0179&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&hide=prs,issues" alt="ym0179" /></p>
 
 
@@ -33,11 +33,9 @@ Mainly use<br/>
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)]() [![Numpy Badge](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)]() [![Pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)]() [![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)]() [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)]() [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)]()\
 From school<br/>
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]() [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]() [![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)]() [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)]() [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=PHP&logoColor=white)]() [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]() [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()<br/><br/><br/><br/>
-
 <!--
 [![Lynn's github stats](https://github-readme-stats.vercel.app/api?username=ym0179&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br/>
 -->
-  
 #### ⚡ Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=bit_seoul&show_owner=True&theme=dark)](https://github.com/ym0179/bit_seoul) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=sketch2image&show_owner=True&theme=dark)](https://github.com/ym0179/sketch2image)<br/>
 
