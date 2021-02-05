@@ -30,9 +30,9 @@ From school<br/>
 
 
 
-  
+<!--
 [![Lynn's github stats](https://github-readme-stats.vercel.app/api?username=ym0179&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
+-->
   
 #### ⚡ Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=bit_seoul&show_owner=True&theme=dark)](https://github.com/ym0179/bit_seoul) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ym0179&repo=sketch2image&show_owner=True&theme=dark)](https://github.com/ym0179/sketch2image)<br/>
