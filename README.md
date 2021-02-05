@@ -16,6 +16,21 @@ Mainly use<br/>
 From school<br/>
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)]() [![Java Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)]() [![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)]() [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)]() [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=PHP&logoColor=white)]() [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)]() [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)]()<br/><br/><br/><br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qubvel" alt="qubvel" /> </p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qubvel&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="qubvel" /></p>
+
+
+
   
 [![Lynn's github stats](https://github-readme-stats.vercel.app/api?username=ym0179&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
